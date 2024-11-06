@@ -39,9 +39,9 @@ Ingrese la dirección de red (ejemplo: 192.168.1.0/24): 192.168.1.0/24
 ## Parámetros de Salida
 El script generará un reporte en reporte_escaner.txt con la siguiente información:
 
-Host: IP del host.
-Estado: Estado general del host.
-Sistema Operativo: Sistema operativo identificado (si es posible).
-Puertos: Listado de puertos abiertos/filtrados y servicios, incluyendo versión.
+- **Host**: IP del host.
+- **Estado**: Estado general del host.
+- **Sistema Operativo**: Sistema operativo identificado (si es posible).
+- **Puertos**: Listado de puertos abiertos/filtrados y servicios, incluyendo versión.
 
 
