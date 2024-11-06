@@ -23,7 +23,7 @@ Para utilizar **MAFIA**, necesitas:
 ## INSTALACIÓN
 Clonar el Repositorio:
 ```git clone https://github.com/tuusuario/mafia.git
- cd mafia ```
+ cd mafia
 
 Crear un Entorno Virtual (opcional, pero recomendado):
 python3 -m venv venv
