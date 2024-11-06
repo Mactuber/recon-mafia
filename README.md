@@ -33,7 +33,9 @@ Instalar las Dependencias: Con el entorno virtual activado (o directamente si de
 `pip install -r requirements.txt`
 
 ## EJECUCIÓN BÁSICA
-python3 mafia.py
+
+`python3 mafia.py`
+
 Ingrese la dirección de red (ejemplo: 192.168.1.0/24): 192.168.1.0/24
 
 ## Parámetros de Salida
