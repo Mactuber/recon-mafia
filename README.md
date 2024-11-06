@@ -23,14 +23,14 @@ Para utilizar **MAFIA**, necesitas:
 ## INSTALACIÓN
 Clonar el Repositorio:
 ```git clone https://github.com/tuusuario/mafia.git
- ```cd mafia
+ cd mafia ```
 
 Crear un Entorno Virtual (opcional, pero recomendado):
- ```python3 -m venv venv
+python3 -m venv venv
 source venv/bin/activate  # Para activar el entorno en Linux/macOS
 
 Instalar las Dependencias: Con el entorno virtual activado (o directamente si decides no usar uno), instala las dependencias:
- ```pip install -r requirements.txt
+ pip install -r requirements.txt
 
 ## EJECUCIÓN BÁSICA
 python3 mafia.py
