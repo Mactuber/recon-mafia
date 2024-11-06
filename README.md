@@ -45,7 +45,7 @@ El script generará un reporte en reporte_escaner.txt con la siguiente informaci
 - **Puertos**: Listado de puertos abiertos/filtrados y servicios, incluyendo versión.
 
 ## EJEMPLO PRÁCTICO:
-(images/img1.png)
-(images/img2.png)
+![Imagen 1](images/img1.png)
+![Imagen 2](images/img2.png)
 
 
